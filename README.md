@@ -1,2 +1,3 @@
-# my-first-project
-Details
+ NIHARIKA NADIKURTHI
+ BCA C
+ ROLL NO:
